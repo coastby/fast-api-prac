@@ -67,3 +67,4 @@ build/
 *.so
 *$py.class
 *.py[cod]
+config.py
